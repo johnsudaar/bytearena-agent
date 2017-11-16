@@ -1,2 +1,6 @@
 bytearena-agent
 agent
+vendor/**
+!vendor/**/*.go
+!vendor/**/
+vendor/**/*_test.go
